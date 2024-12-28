@@ -11,7 +11,7 @@ Below is an example demonstrating the usage of project functionality:
 public class Main {
     public static void main(String[] args) {
 
-        SortUniqueWords.sortText("ab cd ef gh ij ab ab");
+        SortUniqueWords.sortText("cd ef gh ij ab ab");
     }
 }
 ```
@@ -19,7 +19,7 @@ Output
 Given the text:
 
 ```
-"ab cd ef gh ij ab ab"
+"cd ef gh ij ab ab"
 ```
 
 The program will produce the following output:
