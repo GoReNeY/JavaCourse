@@ -1,4 +1,4 @@
-# SortUniqueWords
+# MinecraftBlock
 
 This project provides a simple implementation of MinecraftBlock in Java provided with fields sorting and finding same object.
 
